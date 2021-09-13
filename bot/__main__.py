@@ -52,7 +52,7 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-☹️*Sorry Broh*
+☹️*Sorry Bruh*
 """
 
 
